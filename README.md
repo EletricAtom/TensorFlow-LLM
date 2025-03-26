@@ -1,0 +1,2 @@
+To improve the objective of creating a code for programming a Large Language Model (LLM) from scratch, we need to break down the process into clear and actionable steps that allow the creation of a custom LLM persona from scratch. Here's how you can structure the code and the overall approach for building such a model. The goal is to process input data (books, sentences, or tokens) and use this data to train a language model that generates text resembling a specific 
+persona
